@@ -1,7 +1,7 @@
 # 环境配置
 参考链接：[AO2-DETR/docs/en/install.md at master · Ixiaohuihuihui/AO2-DETR](https://github.com/Ixiaohuihuihui/AO2-DETR/blob/master/docs/en/install.md)
-cuda:11.3
-torch:1.11.0
+- cuda:11.3
+- torch:1.11.0
 ```
 # cuda
 export PATH=/usr/local/cuda-11.3/bin:$PATH
